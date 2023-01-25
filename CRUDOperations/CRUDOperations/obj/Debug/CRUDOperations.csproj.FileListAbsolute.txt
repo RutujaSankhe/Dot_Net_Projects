@@ -1,0 +1,11 @@
+C:\Rutuja\CRUDOperations\CRUDOperations\bin\Debug\CRUDOperations.exe.config
+C:\Rutuja\CRUDOperations\CRUDOperations\bin\Debug\CRUDOperations.exe
+C:\Rutuja\CRUDOperations\CRUDOperations\bin\Debug\CRUDOperations.pdb
+C:\Rutuja\CRUDOperations\CRUDOperations\obj\Debug\CRUDOperations.csproj.AssemblyReference.cache
+C:\Rutuja\CRUDOperations\CRUDOperations\obj\Debug\CRUDOperations.csproj.SuggestedBindingRedirects.cache
+C:\Rutuja\CRUDOperations\CRUDOperations\obj\Debug\CRUDOperations.Form1.resources
+C:\Rutuja\CRUDOperations\CRUDOperations\obj\Debug\CRUDOperations.Properties.Resources.resources
+C:\Rutuja\CRUDOperations\CRUDOperations\obj\Debug\CRUDOperations.csproj.GenerateResource.cache
+C:\Rutuja\CRUDOperations\CRUDOperations\obj\Debug\CRUDOperations.csproj.CoreCompileInputs.cache
+C:\Rutuja\CRUDOperations\CRUDOperations\obj\Debug\CRUDOperations.exe
+C:\Rutuja\CRUDOperations\CRUDOperations\obj\Debug\CRUDOperations.pdb
