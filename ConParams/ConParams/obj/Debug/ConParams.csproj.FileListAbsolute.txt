@@ -1,0 +1,8 @@
+C:\Rutuja\ConParams\ConParams\bin\Debug\ConParams.exe.config
+C:\Rutuja\ConParams\ConParams\bin\Debug\ConParams.exe
+C:\Rutuja\ConParams\ConParams\bin\Debug\ConParams.pdb
+C:\Rutuja\ConParams\ConParams\obj\Debug\ConParams.csproj.AssemblyReference.cache
+C:\Rutuja\ConParams\ConParams\obj\Debug\ConParams.csproj.SuggestedBindingRedirects.cache
+C:\Rutuja\ConParams\ConParams\obj\Debug\ConParams.csproj.CoreCompileInputs.cache
+C:\Rutuja\ConParams\ConParams\obj\Debug\ConParams.exe
+C:\Rutuja\ConParams\ConParams\obj\Debug\ConParams.pdb
