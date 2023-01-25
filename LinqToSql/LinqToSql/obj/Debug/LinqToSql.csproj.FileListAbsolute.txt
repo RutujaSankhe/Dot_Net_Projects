@@ -1,0 +1,11 @@
+C:\Rutuja\LinqToSql\LinqToSql\bin\Debug\LinqToSql.exe.config
+C:\Rutuja\LinqToSql\LinqToSql\bin\Debug\LinqToSql.exe
+C:\Rutuja\LinqToSql\LinqToSql\bin\Debug\LinqToSql.pdb
+C:\Rutuja\LinqToSql\LinqToSql\obj\Debug\LinqToSql.csproj.AssemblyReference.cache
+C:\Rutuja\LinqToSql\LinqToSql\obj\Debug\LinqToSql.csproj.SuggestedBindingRedirects.cache
+C:\Rutuja\LinqToSql\LinqToSql\obj\Debug\LinqToSql.Form1.resources
+C:\Rutuja\LinqToSql\LinqToSql\obj\Debug\LinqToSql.Properties.Resources.resources
+C:\Rutuja\LinqToSql\LinqToSql\obj\Debug\LinqToSql.csproj.GenerateResource.cache
+C:\Rutuja\LinqToSql\LinqToSql\obj\Debug\LinqToSql.csproj.CoreCompileInputs.cache
+C:\Rutuja\LinqToSql\LinqToSql\obj\Debug\LinqToSql.exe
+C:\Rutuja\LinqToSql\LinqToSql\obj\Debug\LinqToSql.pdb

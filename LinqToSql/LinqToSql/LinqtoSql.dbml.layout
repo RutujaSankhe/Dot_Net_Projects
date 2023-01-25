@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LinqtoSql">
+  <DataContextMoniker Name="/LinqtoSqlDataContext" />
+  <nestedChildShapes>
+    <classShape Id="084cc911-b817-41ab-a08f-21765d9f3754" absoluteBounds="0.5, 1.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/LinqtoSqlDataContext/tblEmployee" />
+      <nestedChildShapes>
+        <elementListCompartment Id="065d3941-332d-4cc9-996a-b357200358c5" absoluteBounds="0.51500000000000012, 1.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="26d4c87f-7500-4e73-8b4a-0e3bf84c03b6" absoluteBounds="4.375, 2.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/LinqtoSqlDataContext/tblDept" />
+      <nestedChildShapes>
+        <elementListCompartment Id="41fab6c3-ddbe-4ac2-a151-0816f3f0302b" absoluteBounds="4.39, 2.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.375 : 2.72679768880208); (2.5 : 2.72679768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LinqtoSqlDataContext/tblDept/tblDept_tblEmployee" />
+      <nodes>
+        <classShapeMoniker Id="26d4c87f-7500-4e73-8b4a-0e3bf84c03b6" />
+        <classShapeMoniker Id="084cc911-b817-41ab-a08f-21765d9f3754" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
